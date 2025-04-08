@@ -29,11 +29,59 @@ const Home: React.FC = () => {
 
           <div className="card-bottom">
             <div className="card-info">
-              <div className="text"></div>
-              <div className="price"></div>
+                <span>
+                  Laboris velit cupidatat aliqua eu duis nostrud officia ex ullamco aliquip cupidatat deserunt cillum. Aliquip eu nisi amet ut tempor proident aute 
+                </span>
             </div>
             <div className="card-buy">
-              Comprar
+              <div className="price">
+                <span>R$ 2.999,00</span>
+              </div>
+              <button className="buybutton">
+                Comprar
+              </button>
+            </div>
+          </div>
+        </div>
+        <div className="product-card">
+          <div className="card-img">
+            
+          </div>
+
+          <div className="card-bottom">
+            <div className="card-info">
+                <span>
+                  Laboris velit cupidatat aliqua eu duis nostrud officia ex ullamco aliquip cupidatat deserunt cillum. Aliquip eu nisi amet ut tempor proident aute 
+                </span>
+            </div>
+            <div className="card-buy">
+              <div className="price">
+                <span>R$ 2.999,00</span>
+              </div>
+              <button className="buybutton">
+                Comprar
+              </button>
+            </div>
+          </div>
+        </div>
+        <div className="product-card">
+          <div className="card-img">
+            
+          </div>
+
+          <div className="card-bottom">
+            <div className="card-info">
+                <span>
+                  Laboris velit cupidatat aliqua eu duis nostrud officia ex ullamco aliquip cupidatat deserunt cillum. Aliquip eu nisi amet ut tempor proident aute 
+                </span>
+            </div>
+            <div className="card-buy">
+              <div className="price">
+                <span>R$ 2.999,00</span>
+              </div>
+              <button className="buybutton">
+                Comprar
+              </button>
             </div>
           </div>
         </div>
